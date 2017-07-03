@@ -1,1 +1,1 @@
-# react-redux-crud-
+# Movie Collection crud using React Redux 
